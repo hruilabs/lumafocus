@@ -1,0 +1,29 @@
+name: 功能建议
+description: 告诉我们什么场景还可以做得更好
+title: "[Feature] "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢你的建议。具体的工作场景和使用目标，比一句“请增加某功能”更有帮助。
+  - type: textarea
+    id: problem
+    attributes:
+      label: 你想解决什么问题？
+      description: 描述当前场景、频率和已有的替代方案。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 你期待 Luma 如何帮助你？
+      description: 可以描述功能、交互或提醒方式，不需要给出技术实现。
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: 补充信息
+      description: 例如你的 macOS 版本、典型工作节奏或参考产品。
