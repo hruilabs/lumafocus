@@ -3,6 +3,7 @@ description: 帮助我们定位 Luma 的功能或体验问题
 title: "[Bug] "
 labels:
   - bug
+  - needs-triage
 body:
   - type: markdown
     attributes:
