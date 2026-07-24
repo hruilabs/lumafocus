@@ -3,6 +3,7 @@ description: 告诉我们什么场景还可以做得更好
 title: "[Feature] "
 labels:
   - enhancement
+  - needs-triage
 body:
   - type: markdown
     attributes:
