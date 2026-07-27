@@ -1,0 +1,30 @@
+name: Feature request
+description: Tell us about a work situation Luma could improve
+title: "[Feature] "
+labels:
+  - enhancement
+  - needs-triage
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for the idea. A concrete work situation and outcome are more useful than a feature name alone.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to solve?
+      description: Describe the situation, frequency, and any workaround you use today.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: How would you like Luma to help?
+      description: You can describe a feature, interaction, or reminder approach. Technical implementation is not required.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: For example, your macOS version, typical work rhythm, or a reference product.

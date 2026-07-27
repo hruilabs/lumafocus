@@ -6,7 +6,7 @@
 
 Luma is a low-interruption work-rhythm companion for macOS. It stays quiet while you focus and offers gentle cues when it is time to recover.
 
-[Visit the website](https://lumafocus.cn) · [Report a bug](https://github.com/hruilabs/lumafocus/issues/new?template=bug_report.yml) · [Request a feature](https://github.com/hruilabs/lumafocus/issues/new?template=feature_request.yml) · [View known issues](https://github.com/hruilabs/lumafocus/issues)
+[Visit the website](https://lumafocus.cn) · [Report a bug](https://github.com/hruilabs/lumafocus/issues/new?template=bug_report_en.yml) · [Request a feature](https://github.com/hruilabs/lumafocus/issues/new?template=feature_request_en.yml) · [View known issues](https://github.com/hruilabs/lumafocus/issues) · [Private support and security](mailto:qq927884591@gmail.com)
 
 ## What This Repository Is
 
@@ -19,6 +19,8 @@ Luma is closed-source software. This repository does not contain application sou
 - Report a functional or experience problem
 - Suggest a feature or describe a use case
 - Review known issues and their progress
+
+For subscriptions, privacy requests, sensitive logs, or security concerns, email [qq927884591@gmail.com](mailto:qq927884591@gmail.com) instead of creating a public Issue. See [SECURITY.md](SECURITY.md) for security reports.
 
 When filing an issue, include the Luma version, macOS version, steps to reproduce, and expected and actual behavior where applicable. Do not include passwords, tokens, personal information, or other sensitive material in public issues.
 

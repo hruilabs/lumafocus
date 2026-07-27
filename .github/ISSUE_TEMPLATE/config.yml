@@ -3,3 +3,6 @@ contact_links:
   - name: 访问 Luma 官网
     url: https://lumafocus.cn
     about: 了解 Luma 的产品信息与最新动态。
+  - name: 私密支持与安全报告
+    url: mailto:qq927884591@gmail.com
+    about: 订阅、隐私、敏感日志和安全问题请不要发布到公开 Issue。

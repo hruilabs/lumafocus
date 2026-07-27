@@ -1,0 +1,61 @@
+name: Bug report
+description: Help us investigate a Luma product or experience problem
+title: "[Bug] "
+labels:
+  - bug
+  - needs-triage
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for the report. Do not include passwords, tokens, personal data, device identifiers, or complete sensitive logs in a public Issue.
+  - type: input
+    id: luma-version
+    attributes:
+      label: Luma version
+      description: Find this in Luma's About screen.
+      placeholder: For example, 1.0.9
+    validations:
+      required: true
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS version
+      placeholder: For example, macOS 26.1
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: List the actions in order.
+      placeholder: |
+        1. Open Luma
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: You may attach redacted screenshots or other non-sensitive context.
+  - type: checkboxes
+    id: acknowledgement
+    attributes:
+      label: Before submitting
+      options:
+        - label: I confirm that this Issue does not include sensitive information.
+          required: true
