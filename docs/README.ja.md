@@ -6,7 +6,7 @@
 
 Luma は、macOS 向けの、作業をなるべく妨げないリズム管理アプリです。集中している間は静かに動作し、回復が必要なときだけ穏やかに休憩を促します。
 
-[公式サイト](https://lumafocus.cn) · [不具合を報告](https://github.com/hruilabs/lumafocus/issues/new?template=bug_report.yml) · [機能を提案](https://github.com/hruilabs/lumafocus/issues/new?template=feature_request.yml) · [既知の問題](https://github.com/hruilabs/lumafocus/issues)
+[公式サイト](https://www.lumafocus.cn/ja/) · [Mac App Store で入手](https://apps.apple.com/jp/app/luma-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E4%BC%91%E6%86%A9%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC/id6758292332?mt=12&uo=4) · [不具合を報告](https://github.com/hruilabs/lumafocus/issues/new?template=bug_report.yml) · [機能を提案](https://github.com/hruilabs/lumafocus/issues/new?template=feature_request.yml) · [既知の問題](https://github.com/hruilabs/lumafocus/issues)
 
 ## このリポジトリについて
 

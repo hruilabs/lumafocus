@@ -6,7 +6,7 @@
 
 Luma is a low-interruption work-rhythm companion for macOS. It stays quiet while you focus and offers gentle cues when it is time to recover.
 
-[Visit the website](https://lumafocus.cn) · [Report a bug](https://github.com/hruilabs/lumafocus/issues/new?template=bug_report_en.yml) · [Request a feature](https://github.com/hruilabs/lumafocus/issues/new?template=feature_request_en.yml) · [View known issues](https://github.com/hruilabs/lumafocus/issues) · [Private support and security](mailto:qq927884591@gmail.com)
+[Visit the website](https://www.lumafocus.cn/en/) · [Get on the Mac App Store](https://apps.apple.com/us/app/luma-break-reminder/id6758292332?mt=12&uo=4) · [Report a bug](https://github.com/hruilabs/lumafocus/issues/new?template=bug_report_en.yml) · [Request a feature](https://github.com/hruilabs/lumafocus/issues/new?template=feature_request_en.yml) · [View known issues](https://github.com/hruilabs/lumafocus/issues) · [Private support and security](mailto:qq927884591@gmail.com)
 
 ## What This Repository Is
 

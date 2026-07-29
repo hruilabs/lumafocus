@@ -6,7 +6,7 @@
 
 Luma est un compagnon de rythme de travail discret pour macOS. Il reste silencieux pendant que vous vous concentrez et vous invite doucement à faire une pause quand un temps de récupération est nécessaire.
 
-[Visiter le site](https://lumafocus.cn) · [Signaler un problème](https://github.com/hruilabs/lumafocus/issues/new?template=bug_report.yml) · [Suggérer une fonctionnalité](https://github.com/hruilabs/lumafocus/issues/new?template=feature_request.yml) · [Voir les problèmes connus](https://github.com/hruilabs/lumafocus/issues)
+[Visiter le site](https://www.lumafocus.cn/fr/) · [Obtenir sur le Mac App Store](https://apps.apple.com/fr/app/luma-minuteur-de-pause/id6758292332?mt=12&uo=4) · [Signaler un problème](https://github.com/hruilabs/lumafocus/issues/new?template=bug_report.yml) · [Suggérer une fonctionnalité](https://github.com/hruilabs/lumafocus/issues/new?template=feature_request.yml) · [Voir les problèmes connus](https://github.com/hruilabs/lumafocus/issues)
 
 ## Ce dépôt
 

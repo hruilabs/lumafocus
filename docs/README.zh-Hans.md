@@ -6,7 +6,7 @@
 
 Luma 是一款面向 macOS 的低打扰工作节律伴侣。它在你专注时安静工作，在需要恢复时以轻柔的方式提醒你停下来。
 
-[访问官网](https://lumafocus.cn) · [报告问题](https://github.com/hruilabs/lumafocus/issues/new?template=bug_report.yml) · [提出功能建议](https://github.com/hruilabs/lumafocus/issues/new?template=feature_request.yml) · [查看已知问题](https://github.com/hruilabs/lumafocus/issues)
+[访问官网](https://www.lumafocus.cn/) · [在 Mac App Store 获取](https://apps.apple.com/cn/app/%E5%BE%AE%E5%85%89%E4%BC%91%E6%81%AF%E6%8F%90%E9%86%92/id6758292332?mt=12&uo=4) · [报告问题](https://github.com/hruilabs/lumafocus/issues/new?template=bug_report.yml) · [提出功能建议](https://github.com/hruilabs/lumafocus/issues/new?template=feature_request.yml) · [查看已知问题](https://github.com/hruilabs/lumafocus/issues)
 
 ## 这个仓库是什么
 

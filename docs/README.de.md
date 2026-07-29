@@ -6,7 +6,7 @@
 
 Luma ist ein unaufdringlicher Begleiter für den Arbeitsrhythmus auf macOS. Während du konzentriert arbeitest, bleibt es im Hintergrund und gibt dir sanfte Hinweise, wenn Zeit zur Erholung ist.
 
-[Website besuchen](https://lumafocus.cn) · [Fehler melden](https://github.com/hruilabs/lumafocus/issues/new?template=bug_report.yml) · [Funktion vorschlagen](https://github.com/hruilabs/lumafocus/issues/new?template=feature_request.yml) · [Bekannte Probleme](https://github.com/hruilabs/lumafocus/issues)
+[Website besuchen](https://www.lumafocus.cn/de/) · [Im Mac App Store laden](https://apps.apple.com/de/app/luma-sanfter-pausen-timer/id6758292332?mt=12&uo=4) · [Fehler melden](https://github.com/hruilabs/lumafocus/issues/new?template=bug_report.yml) · [Funktion vorschlagen](https://github.com/hruilabs/lumafocus/issues/new?template=feature_request.yml) · [Bekannte Probleme](https://github.com/hruilabs/lumafocus/issues)
 
 ## Dieses Repository
 
